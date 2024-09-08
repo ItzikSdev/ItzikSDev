@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Itzik
 
 
-I'm a passionate full-stack developer with a strong foundation in node.js typescript golang python. I enjoy building innovative web applications and exploring new technologies. 
+### I'm a passionate full-stack developer with a strong foundation in node.js typescript golang python. I enjoy building innovative web applications and exploring new technologies. 
 
 **Skills**
 * **Programming Languages**
