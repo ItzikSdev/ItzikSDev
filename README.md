@@ -8,7 +8,7 @@ I'm a passionate full-stack developer with a strong foundation in node.js typesc
 <div class="image-flex">
   <img src="https://zweck.io/wp-content/uploads/2021/07/typescript-node.jpg" width="120" alt="TypeScript & Node.js">
   <img src="https://www.techasoft.com/blog/2019/12/1576592374.png" width="120" alt="Go">
-  <img src="https://www.python.org/static/img/python-logo.png" width="120" alt="Python">
+  <img src="https://www.actuia.com/wp-content/uploads/2022/01/logopython.png" width="120" alt="Python">
 </div>
 
 * **Tools and Frameworks**
