@@ -5,8 +5,9 @@ I'm a passionate full-stack developer with a strong foundation in node.js typesc
 
 **Skills**
 * **Programming Languages**
-* 
-<img src="https://zweck.io/wp-content/uploads/2021/07/typescript-node.jpg" width="60"> * <img src="https://www.techasoft.com/blog/2019/12/1576592374.png"   width="60"> * !<img src="https://www.python.org/static/img/python-logo.png" width="60">
+<img src="https://zweck.io/wp-content/uploads/2021/07/typescript-node.jpg" width="120">
+<img src="https://www.techasoft.com/blog/2019/12/1576592374.png" width="120">
+<img src="https://www.python.org/static/img/python-logo.png" width="120">
 
 
 
