@@ -5,9 +5,8 @@ I'm a passionate full-stack developer with a strong foundation in node.js typesc
 
 **Skills**
 * **Programming Languages**
-<p style="font-size: 24px;">
-* ![Node.js](http://url/to/img.png)   * ![Golnag](https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png) width="100" height="100" />  * ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png) width="100"   
- height="100" />  </p>
+* ![Node.js](https://nodejs.org/static/images/logo-wide.png)  * ![Golang](https://go.dev/static/images/go-logo-blue.svg)  * ![Python](https://www.python.org/static/img/python-logo.png) 
+
 
 
 * **Tools and Frameworks**
