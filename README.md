@@ -13,7 +13,7 @@
 * **Tools and Frameworks**
   * React & Vite & TypeScript
 
-* * *DB**
+* **DB**
   *  MongoDB
   *  MYSQL
 
