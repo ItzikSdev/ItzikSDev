@@ -17,7 +17,7 @@
   * MongoDB
   * MYSQL
 
-* * **DEVOPS**
+* **DEVOPS**
   * AWS
   * Ci CD
   * Docker
