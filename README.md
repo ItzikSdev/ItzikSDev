@@ -13,12 +13,10 @@
 * **Tools and Frameworks**
   * React & Vite & TypeScript
 
-
 * **DB**
   *  MongoDB
   *  MYSQL
 
-    
 * * **DEVOPS**
   * AWS
   * Ci CD
