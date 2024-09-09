@@ -14,7 +14,7 @@
   * React & Vite & TypeScript
 
 
-* * **DB**
+* **DB**
   *  MongoDB
   *  MYSQL
 
@@ -25,4 +25,4 @@
   * Docker
   * GitHub Actions
   * Bitbucket Pipelines
-  *  Kubernetes
+  * Kubernetes
