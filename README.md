@@ -14,8 +14,8 @@
   * React & Vite & TypeScript
 
 * **DB**
-  *  MongoDB
-  *  MYSQL
+  * MongoDB
+  * MYSQL
 
 * * **DEVOPS**
   * AWS
