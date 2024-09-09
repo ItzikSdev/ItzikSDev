@@ -14,6 +14,7 @@
   * React & Vite & TypeScript
 
 * **DB**
+  * prisma ORM
   * MongoDB
   * MYSQL
 
